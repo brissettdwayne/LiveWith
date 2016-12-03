@@ -1,0 +1,15 @@
+body {
+  background-color: floralwhite;
+}
+
+ul {
+  padding-left: 0;
+}
+
+li {
+  list-style: none;
+}
+
+.input {
+  margin-left: 7em;
+}
